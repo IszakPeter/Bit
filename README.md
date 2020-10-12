@@ -1,2 +1,3 @@
 # BitSorozat
-128 biten max 256
+bármit is ábrázolni 
+32 biten  (max 256 ig)
